@@ -1,2 +1,2 @@
 # IoT_resources
-IoT Resources
+A list of resources for those interested in hardware/IoT security
