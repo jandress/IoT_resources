@@ -1,7 +1,7 @@
 # IoT_resources
 This is a list of resources for those interested in hardware/IoT security.
 
-# Table of content
+# Table of Contents
 - [Blogs](#blogs)
 - [Books](#books)
 - [Tools](#tools)
