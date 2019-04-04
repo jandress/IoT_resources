@@ -6,7 +6,7 @@ This is a list of resources for those interested in hardware/IoT security.
 - [Books](#books)
 - [Tools](#tools)
 - [Trainings](#trainings)
-- [Conferences](#conferences)
+- [Conferences](#conferences-some-of-which-also-include-training)
 - [How To's](#how)
 - [CTF's](#ctf)
 
@@ -91,20 +91,20 @@ This is a list of resources for those interested in hardware/IoT security.
 * **Hardwear.io** - Europe/USA - https://hardwear.io/
 * **Recon.cx** - Montreal/Brussels - https://recon.cx/
 
-#How To's
-##General
+# How To's
+## General
 * **Porticullis Labs** - Hardware hacking: How to train a team - https://labs.portcullis.co.uk/blog/hardware-hacking-how-to-train-a-team/
 * **EEV Blog** - https://www.eevblog.com/
 * **LiveOverflow** - https://liveoverflow.com/
 
-##Reverse Engineering
+## Reverse Engineering
 * **Practical reverse engineering** - https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
 
-##Hardware debug ports
+## Hardware debug ports
 * **JTAG explained** - https://blog.senr.io/blog/jtag-explained
 * **UART Thou Mad?** - https://media.blackhat.com/us-13/US-13-Kohlenberg-UART-Thou-Mad-WP.pdf
 
-##USB
+## USB
 * **USB Reverse Engineering: Down the rabbit hole** - https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
 
 # CTF's
