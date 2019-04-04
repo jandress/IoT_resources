@@ -87,8 +87,27 @@ This is a list of resources for those interested in hardware/IoT security.
 * **sexviahex** - https://www.sexviahex.com/
 * **Payatu** - https://payatu.com/training/
 
-# CTF's
+# Conferences (some of which also include training)
+* **Hardwear.io** - Europe/USA - https://hardwear.io/
+* **Recon.cx** - Montreal/Brussels - https://recon.cx/
 
+#How To's
+##General
+* **Porticullis Labs** - Hardware hacking: How to train a team - https://labs.portcullis.co.uk/blog/hardware-hacking-how-to-train-a-team/
+* **EEV Blog** - https://www.eevblog.com/
+* **LiveOverflow** - https://liveoverflow.com/
+
+##Reverse Engineering
+* **Practical reverse engineering** - https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+
+##Hardware debug ports
+* **JTAG explained** - https://blog.senr.io/blog/jtag-explained
+* **UART Thou Mad?** - https://media.blackhat.com/us-13/US-13-Kohlenberg-UART-Thou-Mad-WP.pdf
+
+##USB
+* **USB Reverse Engineering: Down the rabbit hole** - https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
+
+# CTF's
 ## RHme
 * **RHme3** Pre-qual writeup RHme3 Binaries, writeups, DIY board - https://github.com/Riscure/Rhme-2017
 * **RHme2** Binaries, writeups, DIY board - https://github.com/Riscure/Rhme-2016
@@ -97,7 +116,7 @@ This is a list of resources for those interested in hardware/IoT security.
 ## Ph0wn
 * **Ph0wn 2018** - https://ph0wn.org/
 * **Ph0wn 2017** - https://www.fortinet.com/blog/threat-research/ph0wn-the-1st-ctf-of-smart-devices-is-over.html
-* Writeups, pictures - http://ph0wn.org/pictures-2017/
+Writeups, pictures - http://ph0wn.org/pictures-2017/
 
 ## Hackgnar
 * **BLE CTF** - https://github.com/hackgnar/ble_ctf
