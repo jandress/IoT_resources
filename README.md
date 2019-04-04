@@ -7,8 +7,8 @@ This is a list of resources for those interested in hardware/IoT security.
 - [Tools](#tools)
 - [Trainings](#trainings)
 - [Conferences](#conferences-some-of-which-also-include-training)
-- [How To's](#how)
-- [CTF's](#ctf)
+- [How To's](#how-tos)
+- [CTF's](#ctfs)
 
 # Blogs
 
