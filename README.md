@@ -16,6 +16,7 @@ This is a list of resources for those interested in hardware/IoT security.
 * [PenTestPartners](https://www.pentestpartners.com/internet-of-things/) - IoT Security Blog 
 * [Firmware Security](https://firmwaresecurity.com/) - News/info mostly on firmware security
 * [Attify](https://blog.attify.com/) - IoT Security Blog
+* [Independent Security Evaluators](https://www.securityevaluators.com/blog/) - IoT Security Research Blog
 
 # Books
 
@@ -25,6 +26,7 @@ This is a list of resources for those interested in hardware/IoT security.
 * **Hardware Hacking: Have Fun While Voiding Your Warranty** - Joe Grand
 * **Pentesting Hardware - A Practical Handbook** - (https://github.com/unprovable/PentestHardware) DRAFT- Mark Carney
 * **The Hardware Hacking Handbook Breaking Embedded Security with Hardware Attacks** - Jasper van Woudenberg and Colin O'Flynn (coming 2019?)
+* **IoT Hackers Handbook: An Ultimate Guide to Hacking the Internet of Things and Learning IoT Security** - By Aditya Gupta
 
 ## Reverse Engineering
 * **Hacking the Xbox: An Introduction to Reverse Engineering** - Andrew "Bunny" Huang
