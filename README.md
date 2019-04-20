@@ -20,13 +20,12 @@ This is a list of resources for those interested in hardware/IoT security.
 
 # Books
 
-## Hardware Hacking/Security
+## Hardware Hacking
 
 * **The Hardware Hacker: Adventures in Making and Breaking Hardware** - Andrew "Bunny" Huang
 * **Hardware Hacking: Have Fun While Voiding Your Warranty** - Joe Grand
 * **Pentesting Hardware - A Practical Handbook** - (https://github.com/unprovable/PentestHardware) DRAFT- Mark Carney
 * **The Hardware Hacking Handbook Breaking Embedded Security with Hardware Attacks** - Jasper van Woudenberg and Colin O'Flynn (coming 2019?)
-* **IoT Hackers Handbook: An Ultimate Guide to Hacking the Internet of Things and Learning IoT Security** - By Aditya Gupta
 
 ## Reverse Engineering
 * **Hacking the Xbox: An Introduction to Reverse Engineering** - Andrew "Bunny" Huang
@@ -34,7 +33,7 @@ This is a list of resources for those interested in hardware/IoT security.
 
 ## General IoT Security
 * **IoT Penetration Testing Cookbook** - Aaron Guzman and Aditya Gupta
-* **IoT Hackers Hardbook** - Aditya Gupta
+* **IoT Hackers Handbook: An Ultimate Guide to Hacking the Internet of Things and Learning IoT Security** - By Aditya Gupta
 * **Abusing the Internet of things: Blackouts, Freakouts, and Stakeouts** - Nitesh Dhanjani
 * **Practical Internet of Things Security** - Brian Russell and Drew Van Duren
 * **Internet of Things for Architects** - Perry Lea (not a security/hacking book but it contains very useful IoT concepts)
@@ -43,7 +42,7 @@ This is a list of resources for those interested in hardware/IoT security.
 * **The Car Hackers Handbook: A Guide for the Penetration Tester** - Craig Smith
 * **Illmatics (web)** (http://illmatics.com/carhacking.html) - Charlie Miller and Chris Valasek
 
-## Wireless Security / RF Security
+## Wireless / RF Security
 * **Hacking Internet of Things: Bluetooth Low Energy** - Shashank Pandey 
 * **Inside Radio: An Attack and Defense Guide** - Qing Yang and Lin Huang
 * **Hacking Wireless Exposed** - Joshua Wright and Johnny Cache
@@ -60,7 +59,7 @@ This is a list of resources for those interested in hardware/IoT security.
 * **ApiMote** - http://apimote.com/
 * **Atmel RZUSBstick** -  Discontinued product (Lucky if you have one!)
 
-## SDR
+## SDR 
 * **HackRF One** - https://greatscottgadgets.com/hackrf/
 * **YardStick One** - https://greatscottgadgets.com/yardstickone/
 * **LimeSDR** - https://www.crowdsupply.com/lime-micro/limesdr
@@ -74,9 +73,15 @@ This is a list of resources for those interested in hardware/IoT security.
 * **Shikra** - https://int3.cc/products/the-shikra
 * **FaceDancer** - https://int3.cc/collections/frontpage/products/facedancer21
 * **JTAGulator** - http://www.grandideastudio.com/jtagulator/
+* **HydraBus** - https://hydrabus.com/hydrabus-1-0-specifications/
 * **GoodFET** - http://goodfet.sourceforge.net/
 * **Logic Analyzer** - https://www.saleae.com/ or https://www.dreamsourcelab.com/product/dslogic-plus/ 
 * **Raspberry Pi, Arduino...**
+
+## RFID/NFC
+* **Proxmark 3** - https://proxmark.com/
+* **ChameleonMini** - https://github.com/emsec/ChameleonMini/wiki
+* **HydraNFC** - https://hydrabus.com/hydranfc-1-0-specifications/
 
 # Trainings
 
