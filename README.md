@@ -22,31 +22,34 @@ This is a list of resources for those interested in hardware/IoT security.
 
 ## Hardware Hacking
 
-* **The Hardware Hacker: Adventures in Making and Breaking Hardware** - Andrew "Bunny" Huang
-* **Hardware Hacking: Have Fun While Voiding Your Warranty** - Joe Grand
-* **Pentesting Hardware - A Practical Handbook** - (https://github.com/unprovable/PentestHardware) DRAFT- Mark Carney
-* **The Hardware Hacking Handbook Breaking Embedded Security with Hardware Attacks** - Jasper van Woudenberg and Colin O'Flynn (coming 2019?)
+* **[The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://nostarch.com/hardwarehacking)** (2021) - Jasper van Woudenberg, Colin O'Flynn
+* **[Pentesting Hardware - A Practical Handbook](https://github.com/unprovable/PentestHardware)** (2018) - Mark Carney
+* **[The Hardware Hacker: Adventures in Making and Breaking Hardware](https://www.powells.com/book/hardware-hacker-adventures-in-making-breaking-hardware-9781593277581)** (2006) - Andrew "Bunny" Huang
+* **[Hardware Hacking: Have Fun While Voiding Your Warranty](https://www.powells.com/book/hardware-hacking-have-fun-while-voiding-your-warranty-9781932266832)** (2004) - Joe Grand
+
+
 
 ## Reverse Engineering
-* **Hacking the Xbox: An Introduction to Reverse Engineering** - Andrew "Bunny" Huang
-* **Reverse Engineering for Beginners** (https://beginners.re/) - Dennis Yurichev
+* **[Reverse Engineering for Beginners](https://beginners.re/)** (2023) - Dennis Yurichev
+* **[Hacking the Xbox: An Introduction to Reverse Engineering](https://nostarch.com/xboxfree)** (2003)- Andrew "Bunny" Huang
 
 ## General IoT Security
-* **IoT Penetration Testing Cookbook** - Aaron Guzman and Aditya Gupta
-* **IoT Hackers Handbook: An Ultimate Guide to Hacking the Internet of Things and Learning IoT Security** - By Aditya Gupta
-* **Abusing the Internet of things: Blackouts, Freakouts, and Stakeouts** - Nitesh Dhanjani
-* **Practical Internet of Things Security** - Brian Russell and Drew Van Duren
-* **Internet of Things for Architects** - Perry Lea (not a security/hacking book but it contains very useful IoT concepts)
+* **[Practical IoT Hacking](https://nostarch.com/practical-iot-hacking)** (2021) - Fotios Chantzis and Ioannis Stais
+* **[IoT Hackers Handbook: An Ultimate Guide to Hacking the Internet of Things and Learning IoT Security](https://www.powells.com/book/the-iot-hackers-handbook-9781484242995)** (2019) - By Aditya Gupta
+* **[Practical Internet of Things Security](https://www.powells.com/book/practical-internet-of-things-security-second-edition-9781788625821)** (2018) - Brian Russell and Drew Van Duren
+* **[Internet of Things for Architects](https://www.powells.com/book/internet-of-things-for-architects-9781788470599)** (2018) - Perry Lea (not a security/hacking book but it contains very useful IoT concepts)
+* **[IoT Penetration Testing Cookbook](https://www.powells.com/book/iot-penetration-testing-cookbook-9781787280571)** (2017) - Aaron Guzman and Aditya Gupta
+* **[Abusing the Internet of things: Blackouts, Freakouts, and Stakeouts](https://www.powells.com/book/abusing-the-internet-of-things-blackouts-freakouts-stakeouts-9781491902332)** (2015) - Nitesh Dhanjani
 
 ## Car Hacking
-* **The Car Hackers Handbook: A Guide for the Penetration Tester** - Craig Smith
-* **Illmatics (web)** (http://illmatics.com/carhacking.html) - Charlie Miller and Chris Valasek
+* **[The Car Hackers Handbook: A Guide for the Penetration Tester](https://nostarch.com/carhacking)** (2016) - Craig Smith
+* **[Illmatics](http://illmatics.com/carhacking.html)** - (ongoing)  - Charlie Miller and Chris Valasek
 
 ## Wireless / RF Security
-* **Hacking Internet of Things: Bluetooth Low Energy** - Shashank Pandey 
-* **Inside Radio: An Attack and Defense Guide** - Qing Yang and Lin Huang
-* **Hacking Wireless Exposed** - Joshua Wright and Johnny Cache
-* **The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio** - Carl Laufer (not a security book but useful resources/tips regarding SDR)
+* **[Hacking Internet of Things: Bluetooth Low Energy](https://www.amazon.com/Hacking-Internet-Things-Bluetooth-Energy/dp/1999954874/)** (2018) - Shashank Pandey 
+* **[Inside Radio: An Attack and Defense Guide](https://www.powells.com/book/inside-radio-9789811084461)** (2018) - Qing Yang and Lin Huang
+* **[Hacking Wireless Exposed: Wireless Security Secrets and Solutions](https://www.powells.com/book/hacking-exposed-wireless-9780071827638)** (2015) - Joshua Wright and Johnny Cache
+* **[The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio](https://www.amazon.com/Hobbyists-Guide-RTL-SDR-Software-Defined/dp/1514716690)** (2015) - Carl Laufer (not a security book but useful resources/tips regarding SDR)
 
 # Tools
 
