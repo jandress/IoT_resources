@@ -23,14 +23,30 @@ This is a list of resources for those interested in hardware/IoT security.
 ## Hardware Hacking
 
 * **[The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://nostarch.com/hardwarehacking)** (2021) - Jasper van Woudenberg, Colin O'Flynn
+* **[Practical Hardware Pentesting: A guide to attacking embedded systems and protecting them against the most common hardware attacks](https://www.powells.com/book/practical-hardware-pentesting-9781789619133)** (2021) - Jean-Georges Valle
+* **[The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers](https://www.amazon.com/Hackers-Hardware-Toolkit-collection-researchers/dp/1099209463)** (2019) - Yago Hansen
+* **[Hardware Security: A Hands-on Learning Approach](https://www.powells.com/book/hardware-security-9780128124772)** (2018) - Swarup Bhunia and Mark M. Tehranipoor
 * **[Pentesting Hardware - A Practical Handbook](https://github.com/unprovable/PentestHardware)** (2018) - Mark Carney
 * **[The Hardware Hacker: Adventures in Making and Breaking Hardware](https://www.powells.com/book/hardware-hacker-adventures-in-making-breaking-hardware-9781593277581)** (2006) - Andrew "Bunny" Huang
 * **[Hardware Hacking: Have Fun While Voiding Your Warranty](https://www.powells.com/book/hardware-hacking-have-fun-while-voiding-your-warranty-9781932266832)** (2004) - Joe Grand
 
-
+## Firmware
+* **[Building Secure Firmware: Armoring the Foundation of the Platform](https://www.powells.com/book/building-secure-firmware-9781484261057)** (2020) Jiewen Yao and Vincent Zimmer
+* **[The Firmware Handbook](https://www.powells.com/book/the-firmware-handbook-9780750676069)** (2004) Jack Ganssle
 
 ## Reverse Engineering
+* **[Engineering Secure Devices](https://nostarch.com/engineering-secure-devices)** (2024) - Dominik Merli
+* **[Blue Fox: Arm Assembly Internals and Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306)** (2023) - Maria Markstedter
 * **[Reverse Engineering for Beginners](https://beginners.re/)** (2023) - Dennis Yurichev
+* **[Deciphering Schematics](https://www.amazon.com/Deciphering-Schematics-Mr-Keng-Tiong/dp/B0B8BPKHGL)** (2022) - Keng Tiong Ng
+* **[Manual PCB-RE: The Essentials](https://www.amazon.com/gp/product/B0974Z3NDS)** (2021) - Keng Tiong Ng
+* **[The Ghidra Book: The Definitive Guide](https://nostarch.com/GhidraBook)** (2020) - Chris Eagle and Kara Nance
+* **[PCB-RE: Real-World Examples](https://www.amazon.com/gp/product/1797999958)** (2019) - Keng Tiong Ng
+* **[PCB-RE: Tools & Techniques](https://www.amazon.com/gp/product/1977549039)** (2017) - Keng Tiong Ng
+* **[The Art of PCB Reverse Engineering (Standard Edition): Unravelling the Beauty of the Original Design](https://www.amazon.com/gp/product/151880053X)** (2015) - Keng Tiong Ng
+* **[Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation](https://www.powells.com/book/practical-reverse-engineering-using-x86-x64-arm-windows-kernel-reversing-tools-obfuscation-9781118787311)** (2014) - Bruce Dang, Alexandre Gazet, Elias Bachaalany
+* **[IDA Pro Book](https://nostarch.com/idapro2.htm)** (2011) - Chris Eagle
+
 * **[Hacking the Xbox: An Introduction to Reverse Engineering](https://nostarch.com/xboxfree)** (2003)- Andrew "Bunny" Huang
 
 ## General IoT Security
