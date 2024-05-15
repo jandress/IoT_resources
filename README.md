@@ -9,6 +9,7 @@ This is a list of resources for those interested in hardware/IoT security.
 - [Conferences](#conferences-some-of-which-also-include-training)
 - [How To's](#how-tos)
 - [CTF's](#ctfs)
+- [Community](#community)
 
 # Blogs
 
@@ -146,3 +147,15 @@ Writeups, pictures - http://ph0wn.org/pictures-2017/
 
 ## Hackgnar
 * **BLE CTF** - https://github.com/hackgnar/ble_ctf
+
+# Community
+
+## Discord
+* **[Hardware Hacking](https://discord.com/channels/997157305823023274/997171584915734598/1000061928141496390)**
+* **[Assembly Language](https://discord.gg/CFhzekuYgj)**
+* **[Reverse Engineering](https://discord.com/invite/rtfm)**
+
+## Reddit
+* **[/r/HardwareHacking](https://www.reddit.com/r/hardwarehacking/)**
+* **[/r/ReverseEngineering](r/ReverseEngineering/)**
+
