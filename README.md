@@ -103,16 +103,29 @@ This is a list of resources for those interested in hardware/IoT security.
 * **ChameleonMini** - https://github.com/emsec/ChameleonMini/wiki
 * **HydraNFC** - https://hydrabus.com/hydranfc-1-0-specifications/
 
-# Trainings
+# Training/Certification
 
-* **Tactical Network Solutions** - Includes online/self-paced options - https://www.tacnetsol.com/
-* **Attify** - Includes online/self-paced options - https://www.attify.com/iot-security-exploitation-training/
-* **Toothless Consulting** - https://toothless.co/trainings/
-* **SecuringHardware** - https://securinghardware.com/training/
-* **Joe Grand** - http://www.grandideastudio.com/hardware-hacking-training/
-* **HardwareSecurity** - https://hardwaresecurity.training/trainings/
-* **sexviahex** - https://www.sexviahex.com/
-* **Payatu** - https://payatu.com/training/
+## Training
+* **[Gray Hat Academy](https://www.grayhatacademy.com/)** - Includes online/self-paced options
+* **[Attify](https://www.attify.com/iot-security-exploitation-training/)** - Includes online/self-paced options
+* **[Toothless Consulting](https://toothless.co/trainings/)** - Includes online/self-paced options
+* **[SecuringHardware](https://learn.securinghardware.com/)** - Includes online/self-paced options
+* **[Joe Grand](http://www.grandideastudio.com/hardware-hacking-training/)**
+* **[HardwareSecurity](https://hardwaresecurity.training/trainings/)** 
+* **[Payatu](https://payatu.com/master-class-security-series/)**  - Includes online/self-paced options
+* **[SANS](https://www.sans.org/)**
+  * **[SEC556: IoT Penetration Testing](https://www.sans.org/cyber-security-courses/iot-penetration-testing/)**  - Includes online/self-paced options
+  * **[SEC617: Wireless Penetration Testing and Ethical Hacking](https://www.sans.org/cyber-security-courses/wireless-penetration-testing-ethical-hacking/)**  - Includes online/self-paced options
+* **[TCM Beginner's Guide to IoT and Hardware Hacking](https://academy.tcm-sec.com/p/beginner-s-guide-to-iot-and-hardware-hacking)** - Includes online/self-paced options
+* **[Advanced Security Training](https://advancedsecurity.training/trainings/)** - Includes online/self-paced options
+* **[EC-Council Hands-on IoT Pentesting](https://codered.eccouncil.org/course/Hands-on-IoT-Pentesting)** - Includes online/self-paced options
+* **[VoidStar Security](https://voidstarsec.com/)**
+* **[Exploit Academy](https://academy.expliot.io/courses)** - Includes online/self-paced options
+
+## Certification
+* **[TCM Practical Junior IoT Tester (PJIT)](https://certifications.tcm-sec.com/)**
+* **[GIAC Assessing and Auditing Wireless Networks (GAWN)](https://www.giac.org/certifications/assessing-auditing-wireless-networks-gawn/)**
+
 
 # Conferences (some of which also include training)
 * **Hardwear.io** - Europe/USA - https://hardwear.io/
