@@ -1,23 +1,28 @@
-# IoT_resources
-This is a list of resources for those interested in hardware/IoT security.
+![](images/banner.webp)
+# IoT Resources
+A list of resources for those interested in hardware, embedded, and IoT security.
 
-# Table of Contents
-- [Blogs](#blogs)
+# Contents
+- [Community](#community)
 - [Books](#books)
-- [Tools](#tools)
-- [Trainings](#trainings)
+- [Training/Certification](#training/certification)
 - [Conferences](#conferences-some-of-which-also-include-training)
 - [How To's](#how-tos)
 - [CTF's](#ctfs)
-- [Community](#community)
+- [Blogs](#blogs)
+- [Tools](#tools)
 
-# Blogs
+# Community
 
-* [Exploitee](https://www.exploitee.rs/index.php/Main_Page) - List of several IoT Devices hacked by Exploitee.rs team.
-* [PenTestPartners](https://www.pentestpartners.com/internet-of-things/) - IoT Security Blog 
-* [Firmware Security](https://firmwaresecurity.com/) - News/info mostly on firmware security
-* [Attify](https://blog.attify.com/) - IoT Security Blog
-* [Independent Security Evaluators](https://www.securityevaluators.com/blog/) - IoT Security Research Blog
+## Discord
+* **[Hardware Hacking](https://discord.com/channels/997157305823023274/997171584915734598/1000061928141496390)**
+* **[Assembly Language](https://discord.gg/CFhzekuYgj)**
+* **[Reverse Engineering](https://discord.com/invite/rtfm)**
+* **[Exploitsecurity.io](https://discord.gg/7ENH9ChFeq)**
+
+## Reddit
+* **[/r/HardwareHacking](https://www.reddit.com/r/hardwarehacking/)**
+* **[/r/ReverseEngineering](r/ReverseEngineering/)**
 
 # Books
 
@@ -68,6 +73,74 @@ This is a list of resources for those interested in hardware/IoT security.
 * **[Hacking Wireless Exposed: Wireless Security Secrets and Solutions](https://www.powells.com/book/hacking-exposed-wireless-9780071827638)** (2015) - Joshua Wright and Johnny Cache
 * **[The Hobbyist's Guide to the RTL-SDR: Really Cheap Software Defined Radio](https://www.amazon.com/Hobbyists-Guide-RTL-SDR-Software-Defined/dp/1514716690)** (2015) - Carl Laufer (not a security book but useful resources/tips regarding SDR)
 
+# Training/Certification
+
+## Training
+* **[Gray Hat Academy](https://www.grayhatacademy.com/)** - Includes online/self-paced options
+* **[Attify](https://www.attify.com/iot-security-exploitation-training/)** - Includes online/self-paced options
+* **[Toothless Consulting](https://toothless.co/trainings/)** - Includes online/self-paced options
+* **[SecuringHardware](https://learn.securinghardware.com/)** - Includes online/self-paced options
+* **[Joe Grand](http://www.grandideastudio.com/hardware-hacking-training/)**
+* **[HardwareSecurity](https://hardwaresecurity.training/trainings/)** 
+* **[Payatu](https://payatu.com/master-class-security-series/)**  - Includes online/self-paced options
+* **[SANS](https://www.sans.org/)**
+  * **[SEC556: IoT Penetration Testing](https://www.sans.org/cyber-security-courses/iot-penetration-testing/)**  - Includes online/self-paced options
+  * **[SEC617: Wireless Penetration Testing and Ethical Hacking](https://www.sans.org/cyber-security-courses/wireless-penetration-testing-ethical-hacking/)**  - Includes online/self-paced options
+* **[TCM Beginner's Guide to IoT and Hardware Hacking](https://academy.tcm-sec.com/p/beginner-s-guide-to-iot-and-hardware-hacking)** - Includes online/self-paced options
+* **[Advanced Security Training](https://advancedsecurity.training/trainings/)** - Includes online/self-paced options
+* **[EC-Council Hands-on IoT Pentesting](https://codered.eccouncil.org/course/Hands-on-IoT-Pentesting)** - Includes online/self-paced options
+* **[VoidStar Security](https://voidstarsec.com/)**
+* **[Exploit Academy](https://academy.expliot.io/courses)** - Includes online/self-paced options
+
+## Certification
+* **[TCM Practical Junior IoT Tester (PJIT)](https://certifications.tcm-sec.com/)**
+* **[GIAC Assessing and Auditing Wireless Networks (GAWN)](https://www.giac.org/certifications/assessing-auditing-wireless-networks-gawn/)**
+
+
+# Conferences (some of which also include training)
+
+* **Hardwear.io** - Europe/USA - https://hardwear.io/
+* **Recon.cx** - Montreal/Brussels - https://recon.cx/
+
+# How To's
+
+## General
+* **Porticullis Labs** - Hardware hacking: How to train a team - https://labs.portcullis.co.uk/blog/hardware-hacking-how-to-train-a-team/
+* **EEV Blog** - https://www.eevblog.com/
+* **LiveOverflow** - https://liveoverflow.com/
+
+## Reverse Engineering
+* **Practical reverse engineering** - https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+
+## Hardware debug ports
+* **JTAG explained** - https://blog.senr.io/blog/jtag-explained
+* **UART Thou Mad?** - https://media.blackhat.com/us-13/US-13-Kohlenberg-UART-Thou-Mad-WP.pdf
+
+## USB
+* **USB Reverse Engineering: Down the rabbit hole** - https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
+
+# CTF's
+## RHme
+* **RHme3** Pre-qual writeup RHme3 Binaries, writeups, DIY board - https://github.com/Riscure/Rhme-2017
+* **RHme2** Binaries, writeups, DIY board - https://github.com/Riscure/Rhme-2016
+* **RHme1** Binaries, writeups, DIY board - https://github.com/Riscure/RHme-2015
+
+## Ph0wn
+* **Ph0wn 2018** - https://ph0wn.org/
+* **Ph0wn 2017** - https://www.fortinet.com/blog/threat-research/ph0wn-the-1st-ctf-of-smart-devices-is-over.html
+Writeups, pictures - http://ph0wn.org/pictures-2017/
+
+## Hackgnar
+* **BLE CTF** - https://github.com/hackgnar/ble_ctf
+
+# Blogs
+
+* [Exploitee](https://www.exploitee.rs/index.php/Main_Page) - List of several IoT Devices hacked by Exploitee.rs team.
+* [PenTestPartners](https://www.pentestpartners.com/internet-of-things/) - IoT Security Blog 
+* [Firmware Security](https://firmwaresecurity.com/) - News/info mostly on firmware security
+* [Attify](https://blog.attify.com/) - IoT Security Blog
+* [Independent Security Evaluators](https://www.securityevaluators.com/blog/) - IoT Security Research Blog
+
 # Tools
 
 ## Bluetooth/BLE
@@ -102,73 +175,3 @@ This is a list of resources for those interested in hardware/IoT security.
 * **Proxmark 3** - https://proxmark.com/
 * **ChameleonMini** - https://github.com/emsec/ChameleonMini/wiki
 * **HydraNFC** - https://hydrabus.com/hydranfc-1-0-specifications/
-
-# Training/Certification
-
-## Training
-* **[Gray Hat Academy](https://www.grayhatacademy.com/)** - Includes online/self-paced options
-* **[Attify](https://www.attify.com/iot-security-exploitation-training/)** - Includes online/self-paced options
-* **[Toothless Consulting](https://toothless.co/trainings/)** - Includes online/self-paced options
-* **[SecuringHardware](https://learn.securinghardware.com/)** - Includes online/self-paced options
-* **[Joe Grand](http://www.grandideastudio.com/hardware-hacking-training/)**
-* **[HardwareSecurity](https://hardwaresecurity.training/trainings/)** 
-* **[Payatu](https://payatu.com/master-class-security-series/)**  - Includes online/self-paced options
-* **[SANS](https://www.sans.org/)**
-  * **[SEC556: IoT Penetration Testing](https://www.sans.org/cyber-security-courses/iot-penetration-testing/)**  - Includes online/self-paced options
-  * **[SEC617: Wireless Penetration Testing and Ethical Hacking](https://www.sans.org/cyber-security-courses/wireless-penetration-testing-ethical-hacking/)**  - Includes online/self-paced options
-* **[TCM Beginner's Guide to IoT and Hardware Hacking](https://academy.tcm-sec.com/p/beginner-s-guide-to-iot-and-hardware-hacking)** - Includes online/self-paced options
-* **[Advanced Security Training](https://advancedsecurity.training/trainings/)** - Includes online/self-paced options
-* **[EC-Council Hands-on IoT Pentesting](https://codered.eccouncil.org/course/Hands-on-IoT-Pentesting)** - Includes online/self-paced options
-* **[VoidStar Security](https://voidstarsec.com/)**
-* **[Exploit Academy](https://academy.expliot.io/courses)** - Includes online/self-paced options
-
-## Certification
-* **[TCM Practical Junior IoT Tester (PJIT)](https://certifications.tcm-sec.com/)**
-* **[GIAC Assessing and Auditing Wireless Networks (GAWN)](https://www.giac.org/certifications/assessing-auditing-wireless-networks-gawn/)**
-
-
-# Conferences (some of which also include training)
-* **Hardwear.io** - Europe/USA - https://hardwear.io/
-* **Recon.cx** - Montreal/Brussels - https://recon.cx/
-
-# How To's
-## General
-* **Porticullis Labs** - Hardware hacking: How to train a team - https://labs.portcullis.co.uk/blog/hardware-hacking-how-to-train-a-team/
-* **EEV Blog** - https://www.eevblog.com/
-* **LiveOverflow** - https://liveoverflow.com/
-
-## Reverse Engineering
-* **Practical reverse engineering** - https://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
-
-## Hardware debug ports
-* **JTAG explained** - https://blog.senr.io/blog/jtag-explained
-* **UART Thou Mad?** - https://media.blackhat.com/us-13/US-13-Kohlenberg-UART-Thou-Mad-WP.pdf
-
-## USB
-* **USB Reverse Engineering: Down the rabbit hole** - https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
-
-# CTF's
-## RHme
-* **RHme3** Pre-qual writeup RHme3 Binaries, writeups, DIY board - https://github.com/Riscure/Rhme-2017
-* **RHme2** Binaries, writeups, DIY board - https://github.com/Riscure/Rhme-2016
-* **RHme1** Binaries, writeups, DIY board - https://github.com/Riscure/RHme-2015
-
-## Ph0wn
-* **Ph0wn 2018** - https://ph0wn.org/
-* **Ph0wn 2017** - https://www.fortinet.com/blog/threat-research/ph0wn-the-1st-ctf-of-smart-devices-is-over.html
-Writeups, pictures - http://ph0wn.org/pictures-2017/
-
-## Hackgnar
-* **BLE CTF** - https://github.com/hackgnar/ble_ctf
-
-# Community
-
-## Discord
-* **[Hardware Hacking](https://discord.com/channels/997157305823023274/997171584915734598/1000061928141496390)**
-* **[Assembly Language](https://discord.gg/CFhzekuYgj)**
-* **[Reverse Engineering](https://discord.com/invite/rtfm)**
-
-## Reddit
-* **[/r/HardwareHacking](https://www.reddit.com/r/hardwarehacking/)**
-* **[/r/ReverseEngineering](r/ReverseEngineering/)**
-
