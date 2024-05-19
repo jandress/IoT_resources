@@ -120,18 +120,27 @@ A list of resources for those interested in hardware, embedded, and IoT security
 * **USB Reverse Engineering: Down the rabbit hole** - https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
 
 # CTF's
+
+* **[TrustworthyComputing CSAW Embedded Security Challenge (2019 - Present) ](https://github.com/TrustworthyComputing?tab=repositories&q=csaw)** (Students only)
+* **[Exploit This](https://exploitthis.ctfd.io/)**
+* **[Hack The Silicon Hack@DAC (2018 - Present)](https://hackthesilicon.com/)**
+* **[Hardwear.io CTF](https://hwctf.quarkslab.com/)**
+* **[Mitre Embedded Capture the Flag (eCTF)](https://mitre-engenuity.org/growing-impact/ectf-embedded-capture-the-flag/)** (Students only)
+* **[Microcorruption Embeddeed Security CTF](https://microcorruption.com/)**
+
 ## RHme
-* **RHme3** Pre-qual writeup RHme3 Binaries, writeups, DIY board - https://github.com/Riscure/Rhme-2017
-* **RHme2** Binaries, writeups, DIY board - https://github.com/Riscure/Rhme-2016
-* **RHme1** Binaries, writeups, DIY board - https://github.com/Riscure/RHme-2015
+* **[RHme3](https://github.com/Riscure/Rhme-2017)** Pre-qual writeup RHme3 Binaries, writeups, DIY board
+* **[RHme2](https://github.com/Riscure/Rhme-2016)** Binaries, writeups, DIY board
+* **[RHme1](https://github.com/Riscure/RHme-2015)** Binaries, writeups, DIY board 
 
 ## Ph0wn
-* **Ph0wn 2018** - https://ph0wn.org/
-* **Ph0wn 2017** - https://www.fortinet.com/blog/threat-research/ph0wn-the-1st-ctf-of-smart-devices-is-over.html
-Writeups, pictures - http://ph0wn.org/pictures-2017/
+* **[Ph0wn 2018 - Present](https://ph0wn.org/)**
+* **[Ph0wn 2017](https://www.fortinet.com/blog/threat-research/ph0wn-the-1st-ctf-of-smart-devices-is-over.html)**
+  * **[2017 writeups and pictures](http://ph0wn.org/pictures-2017/)**
 
 ## Hackgnar
-* **BLE CTF** - https://github.com/hackgnar/ble_ctf
+* **[BLE CTF](https://github.com/hackgnar/ble_ctf)**
+* **[BLE CTF Infinity](https://github.com/hackgnar/ble_ctf_infinity)**
 
 # Blogs
 
