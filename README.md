@@ -28,6 +28,7 @@ A list of resources for those interested in hardware, embedded, and IoT security
 
 ## Hardware Hacking
 
+* **[Microcontroller Exploits](https://nostarch.com/microcontroller-exploits)** (2024) - Travis Goodspeed
 * **[The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks](https://nostarch.com/hardwarehacking)** (2021) - Jasper van Woudenberg, Colin O'Flynn
 * **[Practical Hardware Pentesting: A guide to attacking embedded systems and protecting them against the most common hardware attacks](https://www.powells.com/book/practical-hardware-pentesting-9781789619133)** (2021) - Jean-Georges Valle
 * **[The Hacker's Hardware Toolkit: The best collection of hardware gadgets for Red Team hackers, Pentesters and security researchers](https://www.amazon.com/Hackers-Hardware-Toolkit-collection-researchers/dp/1099209463)** (2019) - Yago Hansen
@@ -101,6 +102,7 @@ A list of resources for those interested in hardware, embedded, and IoT security
 
 * **Hardwear.io** - Europe/USA - https://hardwear.io/
 * **Recon.cx** - Montreal/Brussels - https://recon.cx/
+* **ASHES Workshop** - USA - http://ashesworkshop.org/
 
 # How To's
 
