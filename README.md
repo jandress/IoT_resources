@@ -1,4 +1,4 @@
-![](images/banner.webp)
+![](images/banner.png)
 # IoT Resources
 A list of resources for those interested in hardware, embedded, and IoT security.
 
