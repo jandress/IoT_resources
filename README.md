@@ -5,7 +5,8 @@ A list of resources for those interested in hardware, embedded, and IoT security
 # Contents
 - [Community](#community)
 - [Books](#books)
-- [Training/Certification](#training/certification)
+- [Training](#training)
+- [Certification](#certification)
 - [Conferences](#conferences-some-of-which-also-include-training)
 - [How To's](#how-tos)
 - [CTF's](#ctfs)
@@ -92,10 +93,12 @@ A list of resources for those interested in hardware, embedded, and IoT security
 * **[EC-Council Hands-on IoT Pentesting](https://codered.eccouncil.org/course/Hands-on-IoT-Pentesting)** - Includes online/self-paced options
 * **[VoidStar Security](https://voidstarsec.com/)**
 * **[Exploit Academy](https://academy.expliot.io/courses)** - Includes online/self-paced options
+* **[We Hack in Disguise (WHID)](https://www.whid.ninja/)** - Includes online/self-paced options
 
 ## Certification
 * **[TCM Practical Junior IoT Tester (PJIT)](https://certifications.tcm-sec.com/)**
 * **[GIAC Assessing and Auditing Wireless Networks (GAWN)](https://www.giac.org/certifications/assessing-auditing-wireless-networks-gawn/)**
+* **[WHID Certified Hardware Hacker (CH2)](https://www.whid.ninja/store/product/exam-voucher-certified-hardware-hacker-ch2)**
 
 
 # Conferences (some of which also include training)
